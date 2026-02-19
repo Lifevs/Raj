@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Raj",
+			"path": "."
+		},
+		{
+			"name": "Processed Dataset",
+			"path": "../../Downloads/Processed Dataset"
+		}
+	],
+	"settings": {}
+}
